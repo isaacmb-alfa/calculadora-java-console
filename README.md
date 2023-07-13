@@ -1,2 +1,2 @@
 # calculadora-java-console
-## Proyecto de consola echo en Java
+## Proyecto de consola hecho en Java
